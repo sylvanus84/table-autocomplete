@@ -1,4 +1,4 @@
-# jQuery table-autcomplete plugin
+# jQuery table-autocomplete plugin
 
 This is a simple plugin for jQuery, changing the simple autocomplete list to a configurable table.
 
